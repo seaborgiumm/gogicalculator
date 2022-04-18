@@ -1,0 +1,20 @@
+#inputBlock{
+    width: 100%;
+    background: #CCCCFF;
+    padding: 20px;
+    margin: auto;
+    border-width: 2px;
+    border: solid  black;
+
+}
+#youGetBlock{
+    background: #CC99FF;
+    padding: 30px;
+    width: 100%;
+    margin: auto;
+    border-width: 2px;
+    border: solid  black;
+}
+#km{
+    margin-bottom: 10px;
+}
